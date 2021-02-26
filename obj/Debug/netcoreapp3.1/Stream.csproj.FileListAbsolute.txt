@@ -1,0 +1,11 @@
+D:\practices\Stream\bin\Debug\netcoreapp3.1\Stream.exe
+D:\practices\Stream\bin\Debug\netcoreapp3.1\Stream.deps.json
+D:\practices\Stream\bin\Debug\netcoreapp3.1\Stream.runtimeconfig.json
+D:\practices\Stream\bin\Debug\netcoreapp3.1\Stream.runtimeconfig.dev.json
+D:\practices\Stream\bin\Debug\netcoreapp3.1\Stream.dll
+D:\practices\Stream\bin\Debug\netcoreapp3.1\Stream.pdb
+D:\practices\Stream\obj\Debug\netcoreapp3.1\Stream.csprojAssemblyReference.cache
+D:\practices\Stream\obj\Debug\netcoreapp3.1\Stream.AssemblyInfoInputs.cache
+D:\practices\Stream\obj\Debug\netcoreapp3.1\Stream.AssemblyInfo.cs
+D:\practices\Stream\obj\Debug\netcoreapp3.1\Stream.dll
+D:\practices\Stream\obj\Debug\netcoreapp3.1\Stream.pdb
