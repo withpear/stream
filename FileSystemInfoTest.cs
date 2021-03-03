@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace SteamTest
+namespace StreamTest
 {
     public static class FileSystemInfoTest
     {

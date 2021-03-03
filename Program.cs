@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace SteamTest
+namespace StreamTest
 {
     class Program
     {
@@ -20,7 +20,11 @@ namespace SteamTest
             //FileStreamTest.ReadFileUsingFileStream(@"..\..\..\Program.cs");
             //FileStreamTest.WriteFileUsingFileStream();
 
-            FileStreamRead.ReadAndWriteUsingFileStream();
+            //FileStreamRead.ReadAndWriteUsingFileStream();
+
+            //StreamReaderTest.ReadTextUsingStreamRead();
+
+            BinaryReaderTest.ReadClassUsingBinaryReader();
             Console.WriteLine("Hello World!");
         }
 

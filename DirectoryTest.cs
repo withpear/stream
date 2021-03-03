@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace SteamTest
+namespace StreamTest
 {
     public static class DirectoryTest
     {
